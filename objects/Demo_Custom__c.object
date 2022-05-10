@@ -172,7 +172,7 @@
         <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>Field_Two__c</fullName>
+        <fullName>FieldX_Two__c</fullName>
         <externalId>false</externalId>
         <label>Field Two</label>
         <required>false</required>
